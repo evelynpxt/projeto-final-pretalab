@@ -1,0 +1,194 @@
+.nav-bar {
+    background-color:#ffffff;
+    height:100px;
+    border-bottom:1px solid #ddd
+    /* align-content:center; */
+}
+
+.nav-list {
+    display: flex;
+    justify-content: end ;
+    gap:30px;
+    list-style: none;
+
+}
+
+.hero-section{
+    max-width: 900px;
+    margin: 0 auto;
+    display:flex;
+}
+
+.hero-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:20px;
+}
+
+.hero-text{
+    max-width: 50%;
+}
+
+.hero-text > h1 {
+
+    font-size: 2em;
+    color: #282938;
+}
+
+.hero-text > h1 > span  {
+    color: #6371ff;
+
+}
+
+.hero-text > p {
+
+    margin: 20px 0;
+    color:#1c1e53   
+}
+
+.button-group {
+
+    display: flex;
+    gap: 20px;
+}
+
+.btn {
+
+    border: 1px solid #06067c;
+    color: #eff0f5;
+    border-radius: 5px;
+    width: 280px;
+    height: 40px;
+    background-color: #06067c;
+}
+
+.btn-github {
+    color: #06067c;
+    background-color: white;
+    border:1px solid #06067c;
+  
+}
+
+.hero-image img {
+max-width: 100%;
+height: auto;
+width: 900px;
+padding: 50px 30px 0 50px;
+
+}
+
+.section-formacoes {
+    padding: 70px 20px ;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h2 {
+
+font-size: 32px;
+color:#282938;
+margin-top: 60px;
+margin-bottom: 20px;
+
+}
+
+.list-formacao {
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.formacao-item{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid #000000;
+    padding: 60px 0;
+}
+
+
+.sobre-mim-image {
+max-width: 100%;
+height: auto;
+width: 300px;
+padding: 50px 30px 0 50px;
+
+}
+
+.sobre-mim-section{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #b6d1fa;
+    display: flex;
+
+}
+
+.sobre-mim-container{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:20px;
+
+}
+
+.sobre-mim-image {
+
+max-width: 100%;
+height: auto;
+width: 300px;
+padding: 50px 30px 0 50px;
+
+}
+
+.minhas-experiencias-section {
+    padding: 70px 20px ;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h2 {
+
+font-size: 32px;
+color:#282938;
+margin-top: 60px;
+margin-bottom: 20px;
+
+}
+
+.list-experiencias {
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.experiencias-item{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid #000000;
+    padding: 60px 0;
+}
+
+.link-section{
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #b6d1fa;
+    display: flex;
+    
+}
+
+.link-item{
+   
+    background-color: #b6d1fa;
+    display: flex;
+
+}
+
+
+
+
+
+
+
